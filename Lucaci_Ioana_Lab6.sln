@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucaci_Ioana_Lab6", "Lucaci_Ioana_Lab6.csproj", "{5BE08809-B24E-450E-92A8-46E26A487F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookModel", "D:\FSEGA\An 3\Medii de programare\App\PhoneBookModel\PhoneBookModel.csproj", "{56CF26F3-6F7C-465F-9258-A531AA080772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE08809-B24E-450E-92A8-46E26A487F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE08809-B24E-450E-92A8-46E26A487F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE08809-B24E-450E-92A8-46E26A487F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE08809-B24E-450E-92A8-46E26A487F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56CF26F3-6F7C-465F-9258-A531AA080772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CF26F3-6F7C-465F-9258-A531AA080772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CF26F3-6F7C-465F-9258-A531AA080772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CF26F3-6F7C-465F-9258-A531AA080772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B062DC9-6FFF-46CC-AEA6-D449C767B4AE}
+	EndGlobalSection
+EndGlobal
